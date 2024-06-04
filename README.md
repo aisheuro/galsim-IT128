@@ -1,2 +1,3 @@
-# galsim-ITS152L
-git add README.md
+Aisha Galsim
+ITS152L-FOPI01
+BSIT
